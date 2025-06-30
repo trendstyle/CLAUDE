@@ -1,0 +1,193 @@
+# Chat URLs for Bulk Processing
+
+Total: 63 chats
+
+Claude Conversation Export Script
+https://claude.ai/chat/9c017763-0051-4512-a0b4-66c294d60f2a
+
+Claude Project File Extraction Script
+https://claude.ai/chat/daca916f-3e0d-4dc7-b6a3-46dcd6880ffa
+
+Audio Recording Hardware Evolution
+https://claude.ai/chat/357cd4a9-81b1-406e-b4f8-cd7df90186e9
+
+Complex Project Documentation Strategy
+https://claude.ai/chat/b7cfc221-b94b-423e-be80-ce94acaec4d8
+
+Comprehensive Project Documentation Analysis
+https://claude.ai/chat/b3663b39-1247-4bbb-9020-1bd4006f10c7
+
+Project Documentation Cross-Reference Analysis
+https://claude.ai/chat/e47ed58d-82d4-4a2c-b418-df06d6b816a2
+
+Untitled
+https://claude.ai/chat/477f20c4-59ac-4faa-a920-ca8c569bf717
+
+Project Infrastructure Document Review
+https://claude.ai/chat/d173a083-a14f-4e8d-8f7c-de252a64b82b
+
+Organizational Network Architecture Review
+https://claude.ai/chat/fe0c87be-0d8d-4199-8520-6fe6d9d4a16c
+
+Project Documentation Cross-Reference Analysis
+https://claude.ai/chat/c66eb068-6351-460f-9a3f-266989bad4d9
+
+Untitled
+https://claude.ai/chat/4fd37a78-ad76-4ef0-9475-dabad7fa8600
+
+Untitled
+https://claude.ai/chat/7b2e14b7-eefe-407c-b628-a42f38b29831
+
+Untitled
+https://claude.ai/chat/38320dac-85f8-4ace-8b41-1a7a0caff3b3
+
+Project Document Mapping Protocol
+https://claude.ai/chat/25494b72-3c65-4666-ad3f-68b41933741f
+
+Holistic AI Platform Interface Design
+https://claude.ai/chat/d806c771-e0b3-4053-8a0f-25b463eb4182
+
+Storage Replication System Architecture
+https://claude.ai/chat/9fbbd39e-8dec-4450-ae5c-c2ca40b8a51c
+
+Programming Language Development Best Practices
+https://claude.ai/chat/e1f41b60-2fdc-4a36-8fae-ca83b85ad61c
+
+Java Development Best Practices
+https://claude.ai/chat/7a16418e-6b8f-4501-9e54-a2b47727fa08
+
+Go Programming Best Practices
+https://claude.ai/chat/127e5789-d138-4aed-8b7d-b539cbd3ff73
+
+Visual Basic Development Best Practices
+https://claude.ai/chat/06f5a7c3-53d5-4abe-8dc1-d7b61a565398
+
+JavaScript Development Best Practices
+https://claude.ai/chat/71f1a3d4-41c1-44de-95fd-2b973dd8f8b6
+
+C Programming Best Practices
+https://claude.ai/chat/bf366776-8d28-468f-bf8d-7da644d4ca3b
+
+Python Development Best Practices
+https://claude.ai/chat/72cdb8ee-fb50-445d-ad05-bbb2262601d2
+
+Rust Development Best Practices
+https://claude.ai/chat/9ddcc486-43cb-4f81-82f7-aa3bd3ea8212
+
+Software Development Systemic Failures
+https://claude.ai/chat/e5399e64-80ea-40b1-8e21-60f91bf42279
+
+C++ Development Best Practices
+https://claude.ai/chat/00c1a4bc-85d4-4b70-89f3-b52612034bc4
+
+AI Progress: Top 100 Expert Misconceptions
+https://claude.ai/chat/cba6b005-b378-40dc-a2a2-f54580157aa9
+
+C# Development Best Practices
+https://claude.ai/chat/58f79a26-78f9-4ea1-8268-18c16ad95dc8
+
+AI Software Development Strategy Framework
+https://claude.ai/chat/29134809-cab4-4d1b-bb72-6b81ffbc2b4c
+
+Software Development Best Practices
+https://claude.ai/chat/03453545-e2a9-40d2-8b05-64d0c09a3610
+
+Claude Project File Extraction ScriptLast message 19 minutes ago
+https://claude.ai/chat/daca916f-3e0d-4dc7-b6a3-46dcd6880ffa
+
+Complex Project Documentation StrategyLast message 1 hour ago
+https://claude.ai/chat/b7cfc221-b94b-423e-be80-ce94acaec4d8
+
+Comprehensive Project Documentation AnalysisLast message 1 hour ago
+https://claude.ai/chat/b3663b39-1247-4bbb-9020-1bd4006f10c7
+
+Project Documentation Cross-Reference AnalysisLast message 1 hour ago
+https://claude.ai/chat/e47ed58d-82d4-4a2c-b418-df06d6b816a2
+
+UntitledLast message 1 hour ago
+https://claude.ai/chat/477f20c4-59ac-4faa-a920-ca8c569bf717
+
+Project Infrastructure Document ReviewLast message 1 hour ago
+https://claude.ai/chat/d173a083-a14f-4e8d-8f7c-de252a64b82b
+
+Organizational Network Architecture ReviewLast message 2 hours ago
+https://claude.ai/chat/fe0c87be-0d8d-4199-8520-6fe6d9d4a16c
+
+Project Documentation Cross-Reference AnalysisLast message 2 hours ago
+https://claude.ai/chat/c66eb068-6351-460f-9a3f-266989bad4d9
+
+UntitledLast message 2 hours ago
+https://claude.ai/chat/4fd37a78-ad76-4ef0-9475-dabad7fa8600
+
+UntitledLast message 2 hours ago
+https://claude.ai/chat/7b2e14b7-eefe-407c-b628-a42f38b29831
+
+UntitledLast message 2 hours ago
+https://claude.ai/chat/38320dac-85f8-4ace-8b41-1a7a0caff3b3
+
+Project Document Mapping ProtocolLast message 2 hours ago
+https://claude.ai/chat/25494b72-3c65-4666-ad3f-68b41933741f
+
+Holistic AI Platform Interface DesignLast message 2 hours ago
+https://claude.ai/chat/d806c771-e0b3-4053-8a0f-25b463eb4182
+
+Storage Replication System ArchitectureLast message 3 hours ago
+https://claude.ai/chat/9fbbd39e-8dec-4450-ae5c-c2ca40b8a51c
+
+DONT FORGET TO USE THE INCLUDE...Last message 11 hours ago
+https://claude.ai/chat/4ad2851c-b409-484c-acf8-fc79b8ebb9e8
+
+High Capacity Interconnect Port ResearchLast message 12 hours ago
+https://claude.ai/chat/7c51d27f-9c3d-4e2d-8217-02959c4ce428
+
+UntitledLast message 12 hours ago
+https://claude.ai/chat/615818fe-1a2c-44c8-bbe5-36d8e8cad2cb
+
+UntitledLast message 12 hours ago
+https://claude.ai/chat/487475ec-cffe-4dc8-9045-0e0160463d75
+
+UntitledLast message 12 hours ago
+https://claude.ai/chat/7bc6ef61-e26e-42bd-b6eb-b3a40ec2eabd
+
+UntitledLast message 12 hours ago
+https://claude.ai/chat/c204e027-4fa5-4bd3-bf16-bb8116ef4dce
+
+UntitledLast message 13 hours ago
+https://claude.ai/chat/7907e686-7ec4-4326-8441-2d088b704f02
+
+Mission Bay Server Interconnect Port AnalysisLast message 13 hours ago
+https://claude.ai/chat/d34d3a24-34e4-4430-bb95-81a41baffd58
+
+Inspur Mission Bay GPU Server ArchitectureLast message 13 hours ago
+https://claude.ai/chat/d6b55a55-b323-4078-8ba4-5b4241717c94
+
+Inspur Server Storage ConfigurationLast message 16 hours ago
+https://claude.ai/chat/79bc8da9-83c1-4ec9-b910-482d450a8db1
+
+UntitledLast message 20 hours ago
+https://claude.ai/chat/b35871b3-2f71-410d-beec-e6a217e545a4
+
+FlowiseAI Platform EvaluationLast message 6 days ago
+https://claude.ai/chat/dee5171f-fe6a-4202-9eb6-b5dc540f2392
+
+UntitledLast message 26 days ago
+https://claude.ai/chat/01c942c2-7dda-4b72-9739-8f1d22e05248
+
+UntitledLast message 26 days ago
+https://claude.ai/chat/cd9a110e-2661-4212-a3b8-380a2cd6be1c
+
+Project Implementation Checklist StrategyLast message 26 days ago
+https://claude.ai/chat/0bf9eded-6d97-4d1c-896d-d5ac75d3fe58
+
+Holistic System Implementation BlueprintLast message 26 days ago
+https://claude.ai/chat/9558510f-9ae1-4f88-95c1-d25e50f82548
+
+AI Blueprint Model Evolution StrategyLast message 26 days ago
+https://claude.ai/chat/dcbe3561-e87d-4162-a4da-6d0d4012ecd6
+
+Scaling Coding Agents StrategyLast message 26 days ago
+https://claude.ai/chat/9ad8a1f5-906c-4f78-a012-d03fefebc068
+
+AI Agent Infrastructure Governance StrategyLast message 26 days ago
+https://claude.ai/chat/474b0b59-c641-40cf-b265-bb8e621d768b
+
